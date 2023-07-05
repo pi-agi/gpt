@@ -1,7 +1,7 @@
 {
   "name": "@pi-agi/gpt",
   "description": "TypeScript/Node.js library enabling seamless integration of GPT-4 and GPT-3.5 models with Azure and OpenAI. This toolkit offers user-friendly interfaces, simplifying AI model utilization in your applications.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
